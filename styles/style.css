@@ -7,6 +7,8 @@
   z-index: -1;
 }
 
+
+
 #nameHead{
   margin-top: 4em;
   text-align: center;
@@ -251,7 +253,7 @@ button {
 }
 
 @media screen and (max-width: 647px) {
-  .sub4{
+  .sub4 , .sub5 {
     display: none;
   }
 }
